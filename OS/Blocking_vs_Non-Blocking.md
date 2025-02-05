@@ -1,4 +1,4 @@
-```date: 25.02.06```
+```date: 25.02.05```
 ## 1. 정의
 ![Image](https://github.com/user-attachments/assets/c84d2509-191e-4fe3-bcca-7cd26b2a34a1)
 ### 블로킹 (Blocking)
