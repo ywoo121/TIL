@@ -1,10 +1,13 @@
 개인적인 공부를 위한 레포지토리입니다.
 
 ## OS
-* [Process](https://github.com/ywoo121/TIL/blob/main/OS/Process.md)
-* [Thread]()
-* [Synchronus, Asynchronous](https://github.com/ywoo121/TIL/blob/main/OS/Synchronous_vs_Asynchronous.md)
-* [Blocking, Non-Blocking](https://github.com/ywoo121/TIL/blob/main/OS/Blocking_vs_Non-Blocking.md)
+* [프로세스(Process)](https://github.com/ywoo121/TIL/blob/main/OS/Process.md)
+* [스레드(Thread)](https://github.com/ywoo121/TIL/blob/main/OS/Thread.md)
+* [동기, 비동기(Synchronus, Asynchronous)](https://github.com/ywoo121/TIL/blob/main/OS/Synchronous_vs_Asynchronous.md)
+* [블로킹, 논블로킹(Blocking, Non-Blocking)](https://github.com/ywoo121/TIL/blob/main/OS/Blocking_vs_Non-Blocking.md)
+* [락(Lock)](https://github.com/ywoo121/TIL/blob/main/OS/Lock.md)
+* [동기화(Synchorization)](https://github.com/ywoo121/TIL/blob/main/OS/%EA%B3%B5%EC%9C%A0%EC%9E%90%EC%9B%90%2C%EC%9E%84%EA%B3%84%EC%98%81%EC%97%AD.md)
+* [공유자원, 임계영역(Shared Resource, Critical Section)](https://github.com/ywoo121/TIL/blob/main/OS/%EB%8F%99%EA%B8%B0%ED%99%94(Synchornization).md)
  
 ## Network
 * [01. 네트워크의 구조](https://github.com/ywoo121/TIL/blob/main/Network/01_network%2C%20packet%2C%20LAN%2C%20WAN.md)
