@@ -12,11 +12,11 @@
 ## Network
 * [01. 네트워크의 구조](https://github.com/ywoo121/TIL/blob/main/Network/01_network%2C%20packet%2C%20LAN%2C%20WAN.md)
 * [02. 프로토콜, OSI 7계층, 캡슐화/역캡슐화](https://github.com/ywoo121/TIL/blob/main/Network/02_protocol%2C%20OSI7layer%2C%20capsulation.md)
-* [03. OSI 7계층 - 물리계층(Lv.1)](https://github.com/ywoo121/TIL/blob/main/Network/03_OSI_physical_layer.md)
-* [04. OSI 7계층 - 데이터링크 계층 (Lv.2)](https://github.com/ywoo121/TIL/blob/main/Network/04_OSI_data-link_layer.md)
-* [05. OSI 7계층 - 네트워크 계층 (Lv.2)]()
-* [06. OSI 7계층 - 전송 계층 (Lv.2)]()
-* [07. OSI 7계층 - 응용 계층 (Lv.2)]()
+* [03. OSI 7계층 - 물리계층](https://github.com/ywoo121/TIL/blob/main/Network/03_OSI_physical_layer.md)
+* [04. OSI 7계층 - 데이터링크 계층](https://github.com/ywoo121/TIL/blob/main/Network/04_OSI_data-link_layer.md)
+* [05. OSI 7계층 - 네트워크 계층](https://github.com/ywoo121/TIL/blob/main/Network/05_OSI_network_layer.md)
+* [06. OSI 7계층 - 전송 계층]()
+* [07. OSI 7계층 - 응용 계층]()
 * [08. 네트워크의 전체 흐름]()
 * [09. 무선 랜, SSID]()
 
