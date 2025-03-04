@@ -26,7 +26,11 @@
 * [word2vec](https://github.com/ywoo121/TIL/blob/main/DeepLearning/deep-learning-from-scratch-2/ch03/ch03.ipynb)
   * [word2vec의 속도 개선](https://github.com/ywoo121/TIL/blob/main/DeepLearning/deep-learning-from-scratch-2/ch04/ch04.ipynb)
 * [데이터가 추가된 RNN](https://github.com/ywoo121/TIL/blob/main/DeepLearning/deep-learning-from-scratch-2/ch06/ch06.ipynb)
-  
+
+## Database
+* [Database]()
+* [SQL](https://github.com/ywoo121/TIL/blob/main/Database/SQL.md)
+
 ## SQL
 * [데이터 모델링의 이해](https://github.com/ywoo121/TIL/blob/main/SQL/1-1-1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%98%20%EC%9D%B4%ED%95%B4.md)
 * [엔터티(Entity)](https://github.com/ywoo121/TIL/blob/main/SQL/1-1-2.%20%EC%97%94%ED%84%B0%ED%8B%B0(Entity).md)
@@ -41,3 +45,4 @@
 * [TCL](https://github.com/ywoo121/TIL/blob/main/SQL/2-1-3.TCL.md)
 * [WHERE절](https://github.com/ywoo121/TIL/blob/main/SQL/2-1-4.WHERE%EC%A0%88.md)
 * [Function](https://github.com/ywoo121/TIL/blob/main/SQL/2-1-5.Function.md)
+
